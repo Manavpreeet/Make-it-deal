@@ -1,0 +1,20 @@
+.resultContainer {
+    margin: 10vh 10vw;
+}
+.circularProgressBar{
+    position: absolute;
+    left: 50%;
+    margin-top: 50px;
+}
+.resultHeading {
+    font-weight: 400;
+    color: #FF9921;
+}
+
+.itemContainer {
+    margin-top: 40px;
+    display: grid;
+    grid-template-columns: auto auto  auto;
+    grid-gap: 30px 80px;
+    padding: 40px;
+}

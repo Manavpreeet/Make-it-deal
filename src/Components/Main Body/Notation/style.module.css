@@ -1,0 +1,28 @@
+@media screen and (min-width: 601px){
+    .container {
+        max-width: 50%;
+        text-align: center;
+        align-items: center;
+        margin: 50px auto;
+    }
+}
+
+.container {
+    max-width: 50%;
+    text-align: center;
+    align-items: center;
+    margin: 100px auto;
+}
+
+.notation1 {
+    text-align: center;
+    font-weight: 500;
+    color: #2E253D;
+    font-size: 44px;
+} 
+
+.notation2 {
+    text-align: center;
+    font-weight: 400;
+    color: #FF9921;
+} 
